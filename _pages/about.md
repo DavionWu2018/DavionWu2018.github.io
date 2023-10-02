@@ -21,7 +21,9 @@ redirect_from:
 
 &emsp;&emsp;He is also a visiting scholar at the School of Sport, Tourism, and Hospitality Management, **Temple University**, USA and a short-term visiting student at the Department of Industrial and Systems Engineering, **Lamar University**. 
 
-&emsp;&emsp;His research primarily focuses on sustainable tourism, corporate social responsibility, tourism firm restructuring, and digital cultural tourism. The detailed **Research Interests** are listed as follows.
+Research Interests
+---
+&emsp;&emsp;His research primarily focuses on sustainable tourism, corporate social responsibility, tourism firm restructuring, and digital cultural tourism. The detailed research interests are listed as follows.
 
 * **Tourism firm management:** 
   * tourism efficiency and productivity, tourism firm restructuring
@@ -112,9 +114,9 @@ Article In-progress
 
 Journal Publications
 ---
-- Li, H., & **Wu, D.#** (2024). Online investor attention and firm restructuring performance: Insights from an event-based DEA-Tobit model. ***Omega: The International Journal of Management Science***, 122, 102967. https://doi.org/10.1016/j.omega.2023.102967. (SCI&SSCI, JCR Q1, ABS 3, ABDC A, FMS B, IF=6.9).  [**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YymvRdEAAAAJ&citation_for_view=YymvRdEAAAAJ:hqOjcs7Dif8C) <strong><span class='show_paper_citations' data='YymvRdEAAAAJ:hqOjcs7Dif8C'></span></strong>,  [Free Download](http://davionwu2018.github.io/_files/omega2023.pdf).
+- Li, H., & **Wu, D.#** (2024). Online investor attention and firm restructuring performance: Insights from an event-based DEA-Tobit model. ***Omega: The International Journal of Management Science***, 122, 102967. https://doi.org/10.1016/j.omega.2023.102967. (SCI&SSCI, JCR Q1, ABS 3, ABDC A, FMS B, IF=6.9).  [**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YymvRdEAAAAJ&citation_for_view=YymvRdEAAAAJ:hqOjcs7Dif8C) <strong><span class='show_paper_citations' data='YymvRdEAAAAJ:hqOjcs7Dif8C'></span></strong>,  [Free Download](http://DavionWu2018.github.io/files/omega2023.pdf).
 
-- **Wu, D.**, Li, H., Huang, Q.#, Li, C., & Liang, S. (2023). Measurement and determinants of smart destinations’ sustainable performance: A two-stage analysis using DEA-Tobit model. ***Current Issues in Tourism***, https://doi.org/10.1080/13683500.2023.2228977. (SSCI, JCR Q1, ABS 2, ABDC A, FMS B, IF=8.0).  [**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YymvRdEAAAAJ&citation_for_view=YymvRdEAAAAJ:UebtZRa9Y70C) <strong><span class='show_paper_citations' data='YymvRdEAAAAJ:UebtZRa9Y70C'></span></strong>,  [Free Download](https://github.com/DavionWu2018/DavionWu2018.github.io/blob/main/_files/omega2023.pdf).
+- **Wu, D.**, Li, H., Huang, Q.#, Li, C., & Liang, S. (2023). Measurement and determinants of smart destinations’ sustainable performance: A two-stage analysis using DEA-Tobit model. ***Current Issues in Tourism***, https://doi.org/10.1080/13683500.2023.2228977. (SSCI, JCR Q1, ABS 2, ABDC A, FMS B, IF=8.0).  [**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YymvRdEAAAAJ&citation_for_view=YymvRdEAAAAJ:UebtZRa9Y70C) <strong><span class='show_paper_citations' data='YymvRdEAAAAJ:UebtZRa9Y70C'></span></strong>,  [Free Download](https://github.com/DavionWu2018/DavionWu2018.github.io/blob/main/files/omega2023.pdf).
 
 - **Wu, D.**, Li, H.#, & Yang, J. (2023). How does social responsibility investment strategy contribute to hospitality firms’ recovery from public health emergencies? The case of COVID-19 pandemic. ***International Journal of Hospitality Management***, 113, 103530. https://doi.org/10.1016/j.ijhm.2023.103530. (SSCI, JCR Q1, ABS 3, ABDC A*, FMS B, TOP, IF=11.7).  [**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YymvRdEAAAAJ&citation_for_view=YymvRdEAAAAJ:Se3iqnhoufwC) <strong><span class='show_paper_citations' data='YymvRdEAAAAJ:Se3iqnhoufwC'></span></strong>,  [Free Download](http://davionwu2018.github.io/files/ijhm2023.pdf).
 

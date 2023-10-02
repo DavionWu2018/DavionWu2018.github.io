@@ -40,29 +40,29 @@ His research primarily focuses on sustainable tourism, corporate social responsi
 * **Nankai University, College of Tourism and Service Management -- Tianjin, China**
   * Ph.D. in Tourism Management (Score: 88.18/100) -- September 2021 - Now
   * Dissertation proposal: How does social responsibility practices affect firm multi-dimensional value? Evidence from Chinese listed tourism firms
-  * Advisor: Young Chang-Jiang Prof. Hui Li
+  * Advisor: Young Chang-Jiang Prof. [Hui Li](https://tas.nankai.edu.cn/info/1113/2820.htm)
 
 * **Temple University, School of Sport, Tourism and Hospitality Management -- Philadelphia, USA**
   * Visiting scholar in Tourism and Hospitality Management -- October 2023 - October 2024
   * Collaborative project: How does corporate social responsibility practices affect the value of hospitality and tourism firms? A multi-approach perspective
-  * Advisor: Prof. Xiang (Robert) Li, Arthur F. McGonigle Senior Fellow
+  * Advisor: Prof. [Xiang (Robert) Li](https://sites.temple.edu/robertli/), Arthur F. McGonigle Senior Fellow
 
 * **Jiangnan University, School of Business -- Wuxi, China**
   * M. M. in Management Science and Engineering (Score: 88/100) -  September 2018 - June 2021
   * Dissertation: Regional green technology innovation performance evaluation based on an improved two-stage network DEA model 
   * Award: Excellent graduate thesis award of Jiangnan University and Jiangsu Province in 2022
-  * Advisor: Prof. Yuhong Wang
+  * Advisor: Prof. [Yuhong Wang](http://busi.jiangnan.edu.cn/info/1046/2338.htm)
 
 * **Lamar University, College of Engineering -- Beaumont, USA**
   * Short-term scholar in Industrial and Systems Engineering -- September 2019 - March 2020
   * Collaborative project: Text mining driver distraction through social media network and sentiment analysis
-  * Advisor: Associate Prof. Yueqing Li
+  * Advisor: Associate Prof. [Yueqing Li](https://www.lamar.edu/engineering/industrial/faculty/yueqing-li/index.html)
 
 * **Jiangnan University, School of Business -- Wuxi, China**
   * B. M. in Industrial Engineering (GPA: 3.33/4.0) -- September 2014 - June 2018
   * Dissertation: Location decision of intelligent express cabinet in community logistics
   * Award: Excellent undergraduate thesis award of Jiangnan University in 2018
-  * Advisor: Prof. Yuhong Wang
+  * Advisor: Prof. [Yuhong Wang](http://busi.jiangnan.edu.cn/info/1046/2338.htm)
 
 
 # 🔥 Experiences
@@ -86,7 +86,7 @@ His research primarily focuses on sustainable tourism, corporate social responsi
       * Assist in the application of research projects and organize team building
 
 * **General Electric Medical Systems (China) Co., Ltd. -- Wuxi, China**
- * *Global Supply Chain Intern* -- April 2018 - September 2018
+  * *Global Supply Chain Intern* -- April 2018 - September 2018
       * Make payments for internal and external suppliers for the procurement
       * Manage just-in-time (JIT) material suppliers as a Buyer independently
       * Analyze weekly inventory, order requirements and material usages
@@ -236,11 +236,13 @@ Community & Affiliates
 
 Research Projects
 ---
-- **Wu, D.**, & Wang, Y. A data-driven network DEA method and its application in environmental performance evaluation, *Postgraduate Research & Practice Innovation Program of Jiangsu Province* (KYCX20_1967), 05/2020 – 05/2021, 8 thousand CNY.
+- **Wu, D.**, & Wang, Y. A data-driven network DEA method and its application in environmental performance evaluation, *Postgraduate Research & Practice Innovation Program of Jiangsu Province* ([KYCX20_1967](http://jyt.jiangsu.gov.cn/art/2020/6/29/art_58320_9266367.html)), 05/2020 – 05/2021, 8 thousand CNY.
 
-- **Wu, D.**, & Wang, Y. Express business demand forecasting using GM-SARIMA model, *Grey System Theme Innovation Zone Project* (GS2019005), 12/2019 - 06/2021.
+- **Wu, D.**, & Wang, Y. Express business demand forecasting using GM-SARIMA model, *Grey System Theme Innovation Zone Project* ([GS2019005](http://igss.nuaa.edu.cn/main.htm)), 12/2019 - 06/2021.
 
 Comprehensive Skills
 ---
-* Big Data Analyst (Senior): Certificated by Ministry of Industry and Information Technology
-* Proficiency in professional software: MS Office, Stata, R Studio, Python, MATLAB, Origin Lab
+* *Big Data Analyst (Senior):* 
+  * Certificated by Ministry of Industry and Information Technology
+* *Proficiency in professional software:* 
+  * MS Office, Stata, R Studio, Python, MATLAB, Origin Lab

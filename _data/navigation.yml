@@ -7,16 +7,16 @@ main:
     url: "/#-educations"
 
   - title: "Experiences"
-    url: "/#-invited-talks"
+    url: "/#-experiences"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Presentations"
-    url: "/#-news"
+    url: "/#-presentations"
 
   - title: "Honors"
-    url: "/#-honors-and-awards"
+    url: "/#-honors"
 
   - title: "Services"
-    url: "/#-internships"
+    url: "/#-services"

@@ -52,7 +52,7 @@ Research Interests
 * **Jiangnan University, School of Business -- Wuxi, China**
   * M. M. in Management Science and Engineering (Score: 88/100) -  September 2018 - June 2021
   * Dissertation: Regional green technology innovation performance evaluation based on an improved two-stage network DEA model 
-  * Award: Excellent graduate thesis award of Jiangnan University and Jiangsu Province in 2022
+  * [Award](http://DavionWu2018.github.io/files/award_thesis2.pdf): Excellent graduate thesis award of Jiangnan University and Jiangsu Province in 2022
   * Advisor: Prof. [Yuhong Wang](http://busi.jiangnan.edu.cn/info/1046/2338.htm)
 
 * **Lamar University, College of Engineering -- Beaumont, USA**
@@ -63,7 +63,7 @@ Research Interests
 * **Jiangnan University, School of Business -- Wuxi, China**
   * B. M. in Industrial Engineering (GPA: 3.33/4.0) -- September 2014 - June 2018
   * Dissertation: Location decision of intelligent express cabinet in community logistics
-  * Award: Excellent undergraduate thesis award of Jiangnan University in 2018
+  * [Award](http://DavionWu2018.github.io/files/award_thesis1.pdf): Excellent undergraduate thesis award of Jiangnan University in 2018
   * Advisor: Prof. [Yuhong Wang](http://busi.jiangnan.edu.cn/info/1046/2338.htm)
 
 
@@ -262,9 +262,9 @@ Research Projects
 
 Comprehensive Skills
 ---
-* *Big Data Analyst (Senior):*  [Certification](http://DavionWu2018.github.io/files/skill_bigdata.pdf).
+* *Big Data Analyst (Senior):*
   * Certificated by Ministry of Industry and Information Technology
-* *Proficiency in professional software:*  [Certification](http://DavionWu2018.github.io/files/skill_software.pdf).
+* *Proficiency in professional software:*
   * MS Office, Stata, R Studio, Python, MATLAB, Origin Lab
 
 

@@ -21,7 +21,7 @@ redirect_from:
 
 He is also a visiting scholar at the School of Sport, Tourism, and Hospitality Management, **Temple University**, USA and a short-term visiting student at the Department of Industrial and Systems Engineering, **Lamar University**. 
 
-He has published 10+ papers at the top international Management Science and Tourism Management journals such as Omega, CAIE, IJHM, JOST, CIT.
+He has published **10+ papers** at the top international Management Science and Tourism Management journals such as Omega, CAIE, IJHM, JOST, CIT.
 
 Research Interests
 ---

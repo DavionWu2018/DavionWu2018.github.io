@@ -21,7 +21,7 @@ redirect_from:
 
 He is also a visiting scholar at the School of Sport, Tourism, and Hospitality Management, **Temple University**, USA and a short-term visiting student at the Department of Industrial and Systems Engineering, **Lamar University**. 
 
-He has published 10+ papers <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international Management Science and Tourism Management journals such as Omega, CAIE, IJHM, JOST, CIT.
+He has published 10+ papers <a href='https://scholar.google.com/citations?user=YymvRdEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international Management Science and Tourism Management journals such as Omega, CAIE, IJHM, JOST, CIT.
 
 Research Interests
 ---

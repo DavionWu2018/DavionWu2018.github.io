@@ -106,7 +106,7 @@ Article In-progress
 
 - Ren, Y., **Wu, D.**, Wang, Y.#, Xia, L., & Yan, Q. (2023). Carbon emission efficiency evaluation with a foresight perspective: Insights from a scenario-based game cross-efficiency model. *Under Review*.
 
-- **Wu, D.**, & Li, H.# (2023). Corporate social performance and operational efficiency: A necessary condition analysis perspective. Chinese Journal of Management Science. *Under Review*.
+- **Wu, D.**, & Li, H.# (2023). Corporate social performance and operational efficiency: A necessary condition analysis perspective. *Under Review*.
 
 - Liu, Y., Li, H.#, & **Wu, D.** (2023). How investor response helps information filtering? The influence of investor-interaction reputation on hospitality firms’ restructuring performance. *Under Review*.
 

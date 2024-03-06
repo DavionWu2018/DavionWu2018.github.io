@@ -47,7 +47,7 @@ Research Interests
   * Advisor: Young Chang-Jiang Prof. [Hui Li](https://tas.nankai.edu.cn/info/1113/2820.htm)
 
 * **Temple University, School of Sport, Tourism and Hospitality Management -- Philadelphia, USA**
-  * Visiting scholar in Tourism and Hospitality Management -- October 2023 - October 2024
+  * Visiting scholar in Tourism and Hospitality Management -- January 2024 - January 2025
   * Collaborative project: How does corporate social responsibility practices affect the value of hospitality and tourism firms? A multi-approach perspective
   * Advisor: Prof. [Xiang (Robert) Li](https://sites.temple.edu/robertli/), Arthur F. McGonigle Senior Fellow
 
@@ -71,7 +71,11 @@ Research Interests
 
 # 🔥 Experiences
 
-* **Nankai University, Tourism Interdisciplinary Research Center -- Tianjin, China**
+* **Temple University, [U.S.-Asia Center for Tourism and Hospitality Research](https://sthm.temple.edu/us-asia-center-for-tourism-hospitality-research/) -- Philadelphia, USA**
+  * *Research Assistant* -- January 2024 - January 2025
+      * Conduct cutting-edge, multi-disciplinary research and participate in consultancy projects
+
+* **Nankai University, [Research Centre for Cross-Disciplinary in Tourism](https://entas.nankai.edu.cn/info/1039/1966.htm) -- Tianjin, China**
   * *Teaching Assistant* -- September 2022 - December 2022
       * 3408 Electronic Commerce (undergraduate), Fall 2022
   * *Research Assistant* -- September 2021 - August 2022
@@ -79,12 +83,12 @@ Research Interests
       * Search for academic papers published by faculty and students of the CTSM
       * Maintain the science and research information section of the college website
 
-* **Lamar University, Human Factors and Ergonomics Laboratory -- Beaumont, USA**
+* **Lamar University, [Human Factors and Ergonomics Laboratory](https://www.lamar.edu/engineering/industrial/research/labs/human-factors-and-ergonomics-laboratory.html) -- Beaumont, USA**
   * *Research Assistant* -- September 2019 - March 2020
       * Participate in the drive simulation of autonomous or distracted driving
       * Text mining public perceptions on distracted driving through social media
 
-* **Jiangnan University, Research Base for the Development Strategy of IOT -- Wuxi, China**
+* **Jiangnan University, [Research Base for the Development Strategy of IOT](http://busi.jiangnan.edu.cn/info/1536/2723.htm) -- Wuxi, China**
   * *Research Assistant* -- September 2018 - June 2019
       * Coordinate more than 20 students to organize four academic conferences
       * Assist in the application of research projects and organize team building
@@ -100,25 +104,21 @@ Research Interests
 
 Article In-progress
 ---
-- **Wu, D.**, & Li, H.# (2023). Can ESG practices drive tourism firm value? The role of firm risk-taking. *In Progress*.
+- **Wu, D.#** (2024). Information asymmetry in tourism market: The bilateral effects of ESG practices on firm profitability. *In Progress*.
 
-- Liu, W., **Wu, D.**, & Wang, Y.# (2023). A comprehensive evaluation method of air quality based on spatial Steiner-Weber model in urban agglomeration. *Under Review*.
+- **Wu, D.**, & Li, H.# (2024). Can ESG practices drive tourism firm value? The role of firm risk-taking. *Under Review*.
 
-- Ren, Y., **Wu, D.**, Wang, Y.#, Xia, L., & Yan, Q. (2023). Carbon emission efficiency evaluation with a foresight perspective: Insights from a scenario-based game cross-efficiency model. *Under Review*.
+- **Wu, D.**, & Li, H.# (2024). Corporate social performance and operational efficiency: A necessary condition analysis perspective. *Under Review*.
 
-- **Wu, D.**, & Li, H.# (2023). Corporate social performance and operational efficiency: A necessary condition analysis perspective. *Under Review*.
-
-- Liu, Y., Li, H.#, & **Wu, D.** (2023). How investor response helps information filtering? The influence of investor-interaction reputation on hospitality firms’ restructuring performance. *Under Review*.
-
-- **Wu, D.#**, & Liu, W. (2023). Exploring energy and tourism economy growth nexus: Evidence from tourism destinations in the Yangtze River Delta. *Under Review*.
-
-- **Wu, D.**, Li, H.#, & Liu, Y. (2023). Doing well by doing right: Heterogeneous effects of tourism firms’ social responsibility on service productivity and profitability. *Under Review*.
+- **Wu, D.#**, & Liu, W. (2024). Modelling energy and tourism economy growth nexus: A data envelopment analysis approach with quasi-fixed factor. *Under Review*.
 
 Journal Publications
 ---
+- **Wu, D.**, Li, H., Huang, Q.#, Li, C., & Liang, S. (2024). Measurement and determinants of smart destinations’ sustainable performance: A two-stage analysis using DEA-Tobit model. ***Current Issues in Tourism***, 27(4), 529-545. https://doi.org/10.1080/13683500.2023.2228977. (SSCI, JCR Q1, ABS 2, ABDC A, FMS B, IF=8.0).  [Free Download](http://DavionWu2018.github.io/files/cit2024.pdf).
+
 - Li, H., & **Wu, D.#** (2024). Online investor attention and firm restructuring performance: Insights from an event-based DEA-Tobit model. ***Omega: The International Journal of Management Science***, 122, 102967. https://doi.org/10.1016/j.omega.2023.102967. (SCI&SSCI, JCR Q1, ABS 3, ABDC A, FMS B, IF=6.9).  [Free Download](http://DavionWu2018.github.io/files/omega2023.pdf).
 
-- **Wu, D.**, Li, H., Huang, Q.#, Li, C., & Liang, S. (2023). Measurement and determinants of smart destinations’ sustainable performance: A two-stage analysis using DEA-Tobit model. ***Current Issues in Tourism***, https://doi.org/10.1080/13683500.2023.2228977. (SSCI, JCR Q1, ABS 2, ABDC A, FMS B, IF=8.0).  [Free Download](http://DavionWu2018.github.io/files/cit2023.pdf).
+- **Wu, D.**, Li, H.#, & Liu, Y. (2023). Doing well by doing right: Heterogeneous effects of tourism firms’ social responsibility on service productivity and profitability. ***Current Issues in Tourism***, https://doi.org/10.1080/13683500.2023.2283558. (SSCI, JCR Q1, ABS 2, ABDC A, FMS B, IF=8.0). [Free Download](http://DavionWu2018.github.io/files/cit2023.pdf).
 
 - **Wu, D.**, Li, H.#, & Yang, J. (2023). How does social responsibility investment strategy contribute to hospitality firms’ recovery from public health emergencies? The case of COVID-19 pandemic. ***International Journal of Hospitality Management***, 113, 103530. https://doi.org/10.1016/j.ijhm.2023.103530. (SSCI, JCR Q1, ABS 3, ABDC A*, FMS B, TOP, IF=11.7).  [Free Download](http://DavionWu2018.github.io/files/ijhm2023.pdf).
 
@@ -240,7 +240,8 @@ Summer Schools
 Academic Services
 ---
 * *Journal Reviewer:* 
-  * International Journal of Hospitality Management ([Since 2023](http://DavionWu2018.github.io/files/rev_ijhm.pdf)), Omega ([Since 2023](http://DavionWu2018.github.io/files/rev_omega.pdf)), Computational Economics (Since 2023), Journal of Quality Assurance in Hospitality & Tourism (Since 2023), Plos One (Since 2023), Heliyon (Since 2023) 
+  * Tourism Management Perspectives ([Since 2024](http://DavionWu2018.github.io/files/rev_tmp.pdf))
+  * Environmental Science & Policy ([Since 2023](http://DavionWu2018.github.io/files/rev_envsci.pdf)), International Journal of Hospitality Management ([Since 2023](http://DavionWu2018.github.io/files/rev_ijhm.pdf)), Omega ([Since 2023](http://DavionWu2018.github.io/files/rev_omega.pdf)), Applied Economics (Since 2023), Computational Economics (Since 2023), Journal of Quality Assurance in Hospitality & Tourism (Since 2023), Plos One (Since 2023), Heliyon ([Since 2023](http://DavionWu2018.github.io/files/rev_heliyon.pdf)), Complexity (Since 2023) 
   * Socio-Economic Planning Sciences ([Since 2022](http://DavionWu2018.github.io/files/rev_seps.pdf)), Expert Systems with Application ([Since 2022](http://DavionWu2018.github.io/files/rev_eswa.pdf)), Journal of Cleaner Production ([Since 2022](http://DavionWu2018.github.io/files/rev_jclp.pdf)), Environment Development and Sustainability (Since 2022)
   * Environmental Science and Pollution Research (Since 2021), Kybernetes (Since 2021), Energy Efficiency (Since 2020), Journal of Ambient Intelligence and Humanized Computing (Since 2020)
 
@@ -252,9 +253,11 @@ Academic Services
 
 Community & Affiliates
 ---
+* Tourism Research Information Network ([TRINET](https://shidler.hawaii.edu/tim/trinet)), Academic Community Member (February 2024 - )
+* Chinese Society of Optimization, Overall Planning and Economical Mathematics ([CSOOPEM](http://www.scope.org.cn/)), Student Member (September 2023 - September 2028)
+* International Association for Chinese Management Research ([IACMR](https://iacmr.org/)), Student Member (December 2022 - )
 * Travel and Tourism Research Association ([TTRA](https://ttra.com/)), Student Member (January 2021 - January 2022)
 * International Federation for IT and Travel & Tourism ([IFITT](https://ifitt.org/)), Student Member (Aprial 2022 - Aprial 2023)
-* Chinese Society of Optimization, Overall Planning and Economical Mathematics ([CSOOPEM](http://www.scope.org.cn/)), Student Member (September 2023 - September 2028)
 
 Research Projects
 ---

@@ -278,7 +278,7 @@ Community & Affiliates
 * Chinese Society of Optimization, Overall Planning and Economical Mathematics ([CSOOPEM](http://www.scope.org.cn/)), Student Member (September 2023 - September 2028)
 * International Association for Chinese Management Research ([IACMR](https://iacmr.org/)), Student Member (December 2022 - )
 * Travel and Tourism Research Association ([TTRA](https://ttra.com/)), Student Member (April 2022 - April 2025)
-* International Federation for IT and Travel & Tourism ([IFITT](https://ifitt.org/)), Student Member (January 2021 - January 2022)
+* International Federation for IT and Travel & Tourism ([IFITT](https://ifitt.net/)), Student Member (January 2021 - January 2022)
 
 Research Projects
 ---

@@ -21,29 +21,23 @@ redirect_from:
 
 He is also a visiting scholar at the School of Sport, Tourism, and Hospitality Management, **Temple University**, USA and a short-term visiting student at the Department of Industrial and Systems Engineering, **Lamar University**. 
 
-He has published **15+ papers** at the top international Management Science and Tourism Management journals such as Omega, CAIE, IJHM, JOST, CIT.
+He has published **18+ papers** at the top international Management Science and Tourism Management journals such as Omega, CAIE, IJHM, JOST, ESP, CIT.
 
 Research Interests
 ---
-&emsp;&emsp;His research primarily focuses on sustainable tourism, corporate social responsibility, tourism firm restructuring, and digital cultural tourism. The detailed research interests are listed as follows.
+&emsp;&emsp;His research primarily focuses on Smart Decision-Making, Sustainable Tourism, Digital Cultural Tourism, and Corporate Digital Responsibility. The detailed research interests are listed as follows.
 
-* **Tourism firm management:** 
-  * tourism efficiency and productivity, tourism firm restructuring
-* **Event study and firm value:** 
-  * event study, corporate social responsibility, firm performance
-* **Tourism sustainability and competitiveness:** 
-  * eco-tourism, tourism economic modeling
-* **Smart tourism destination:** 
-  * smart city, smart tourism, digital economy, online attention
-* **Data science and decision making:** 
-  * e-tourism, online review, text mining, frontier analysis
+* **Smart Decision-Making and Sustainable Tourism:** 
+  * destination competitiveness, digital economy, tourism economic modeling, data envelopment analysis, stochastic frontier analysis, empirical econometrics
+* **Digital Cultural Tourism and Corporate Digital Responsibility:** 
+  * digital transformation, digital mergers and acquisitions, CSR and ESG, firm performance evaluation, NCA and QCA, event study, text mining
 
 
 # 📖 Educations
 
 * **Nankai University, College of Tourism and Service Management -- Tianjin, China**
   * Ph.D. in Tourism Management (Score: 88.18/100) -- September 2021 - Now
-  * Dissertation proposal: How does social responsibility practices affect firm multi-dimensional value? Evidence from Chinese listed tourism firms
+  * Dissertation proposal: Mechanisms and pathways of data-element driven value creation of tourism service firms
   * Advisor: Young Chang-Jiang Prof. [Hui Li](https://tas.nankai.edu.cn/info/1113/2820.htm)
 
 * **Temple University, School of Sport, Tourism and Hospitality Management -- Philadelphia, USA**
@@ -74,6 +68,8 @@ Research Interests
 * **Temple University, [U.S.-Asia Center for Tourism and Hospitality Research](https://sthm.temple.edu/us-asia-center-for-tourism-hospitality-research/) -- Philadelphia, USA**
   * *Research Assistant* -- January 2024 - January 2025
       * Conduct cutting-edge, multi-disciplinary research and participate in consultancy projects
+      * FAA airport cooperative research program - PHL international airport family amenity study
+      * TTRA international think tank project - Forecasting tourism demand using Google search data
 
 * **Nankai University, [Research Centre for Cross-Disciplinary in Tourism](https://entas.nankai.edu.cn/info/1039/1966.htm) -- Tianjin, China**
   * *Teaching Assistant* -- September 2022 - December 2022
@@ -104,23 +100,25 @@ Research Interests
 
 Article In-progress
 ---
-- **Wu, D.**, & Li, H.# (2024). Information asymmetry in tourism market: The bilateral effects of ESG practices on firm profitability. *Under Review*.
+- **Wu, D.**, & Li, H.# (2025). Information asymmetry in tourism market: The bilateral effects of ESG practices on firm profitability. *Under Review*.
 
-- **Wu, D.**, & Li, H.# (2024). Can ESG practices drive tourism firm value? The role of firm risk-taking. *Under Review*.
+- **Wu, D.**, & Li, H.# (2025). ESG practices, risk-taking behavior, and firm value: Evidence from the tourism and hospitality sector. *Under Review*.
 
-- **Wu, D.**, & Li, H.# (2024). Corporate social performance and operational efficiency: A necessary condition analysis. *Under Review*.
-
-- **Wu, D.**, Liu, W., Ren, Y., & Li, H.# (2024). Exploring energy and tourism economy growth nexus with DEA-based index systems: The case of sustainable development of tourism destinations. *Under Review*.
+- **Wu, D.**, & Li, H.# (2025). Corporate social performance and operational efficiency: A necessary condition analysis. *Under Review*.
 
 Journal Publications
 ---
-- Ren, Y., Wang, Y.#, Xia, L., & **Wu, D.** An innovative information accumulation multivariable grey model and its application in China’s renewable energy generation forecasting. ***Expert Systems with Applications***, 252, 124130. https://doi.org/10.1016/j.eswa.2024.124130. (SCIE, JCR Q1, ABS 1, ABDC C, FMS C, TOP, CCF C, IF=7.5). [Free Download](http://DavionWu2018.github.io/files/eswa2024.pdf).
+- Ren, Y., Wang, Y.#, **Wu, D.**, Xia, L., & Yan, Q. (2024). Regional carbon emission efficiency evaluation combining grey forecasting and game cross-efficiency analysis: The case of Yangtze River Delta. ***Energy & Environment***, Accept. (SSCI, JCR Q2, ABDC C, IF=4).
 
-- **Wu, D.**, Li, H., Huang, Q.#, Li, C., & Liang, S. (2024). Measurement and determinants of smart destinations’ sustainable performance: A two-stage analysis using DEA-Tobit model. ***Current Issues in Tourism***, 27(4), 529-545. https://doi.org/10.1080/13683500.2023.2228977. (SSCI, JCR Q1, ABS 2, ABDC A, FMS B, IF=5.7).  [Free Download](http://DavionWu2018.github.io/files/cit2024.pdf).
+- **Wu, D.**, Liu, W., Ren, Y., & Li, H.# (2024). Exploring energy and tourism economy growth nexus with DEA-based index systems: The case of sustainable development of tourism destinations. ***Environmental Science & Policy***, 160, 103858. https://doi.org/10.1016/j.envsci.2024.103858. (SCIE, JCR Q1, ABS 3, FMS B, CAST T2, TOP, IF=4.9). [Free Download](http://DavionWu2018.github.io/files/envsci2024.pdf).
+
+- Ren, Y., Wang, Y.#, Xia, L., & **Wu, D.** (2024). An innovative information accumulation multivariable grey model and its application in China’s renewable energy generation forecasting. ***Expert Systems with Applications***, 252, 124130. https://doi.org/10.1016/j.eswa.2024.124130. (SCIE, JCR Q1, ABS 1, ABDC C, FMS C, TOP, CCF C, IF=7.5). [Free Download](http://DavionWu2018.github.io/files/eswa2024.pdf).
+
+- **Wu, D.**, Li, H., Huang, Q.#, Li, C., & Liang, S. (2024). Measurement and determinants of smart destinations’ sustainable performance: A two-stage analysis using DEA-Tobit model. ***Current Issues in Tourism***, 27(4), 529-545. https://doi.org/10.1080/13683500.2023.2228977. (SSCI, JCR Q1, ABS 2, ABDC A, FMS B, IF=5.7).  [Free Download](http://DavionWu2018.github.io/files/cit2024-1.pdf).
 
 - Li, H., & **Wu, D.#** (2024). Online investor attention and firm restructuring performance: Insights from an event-based DEA-Tobit model. ***Omega: The International Journal of Management Science***, 122, 102967. https://doi.org/10.1016/j.omega.2023.102967. (SCIE&SSCI, JCR Q1, ABS 3, ABDC A, FMS B, TOP, IF=6.7).  [Free Download](http://DavionWu2018.github.io/files/omega2023.pdf).
 
-- **Wu, D.**, Li, H.#, & Liu, Y. (2023). Doing well by doing right: Heterogeneous effects of tourism firms’ social responsibility on service productivity and profitability. ***Current Issues in Tourism***, https://doi.org/10.1080/13683500.2023.2283558. (SSCI, JCR Q1, ABS 2, ABDC A, FMS B, IF=5.7). [Free Download](http://DavionWu2018.github.io/files/cit2023.pdf).
+- **Wu, D.**, Li, H.#, & Liu, Y. (2024). Doing well by doing right: Heterogeneous effects of tourism firms’ social responsibility on service productivity and profitability. ***Current Issues in Tourism***, 27(24), 4693-4713. https://doi.org/10.1080/13683500.2023.2283558. (SSCI, JCR Q1, ABS 2, ABDC A, FMS B, IF=5.7). [Free Download](http://DavionWu2018.github.io/files/cit2024-2.pdf).
 
 - **Wu, D.**, Li, H.#, & Yang, J. (2023). How does social responsibility investment strategy contribute to hospitality firms’ recovery from public health emergencies? The case of COVID-19 pandemic. ***International Journal of Hospitality Management***, 113, 103530. https://doi.org/10.1016/j.ijhm.2023.103530. (SSCI, JCR Q1, ABS 3, ABDC A*, FMS B, TOP, IF=9.9).  [Free Download](http://DavionWu2018.github.io/files/ijhm2023.pdf).
 
@@ -144,7 +142,7 @@ Journal Publications
 
 Chapter & Review
 ---
-- **Wu, D.#** (2023). City walk in a gap day: Potential and opportunities for tourism and leisure. ***Tourism Review***, https://doi.org/10.1108/TR-09-2023-0614. (SSCI, JCR Q1, ABS 1, ABDC B, FMS D, IF=7.3).  [Free Download](http://DavionWu2018.github.io/files/tr2023.pdf).
+- **Wu, D.#** (2024). City walk in a gap day: Potential and opportunities for tourism and leisure. ***Tourism Review***, 79(9), 1576-1581. https://doi.org/10.1108/TR-09-2023-0614. (SSCI, JCR Q1, ABS 1, ABDC B, FMS D, IF=7.3).  [Free Download](http://DavionWu2018.github.io/files/tr2024.pdf).
 
 - **Wu, D.#** (2023). A review on the “COVID-19, Tourist Destinations and Prospects for Recovery” book. ***Journal of Hospitality and Tourism Management***, 55, 198-199. https://doi.org/10.1016/j.jhtm.2023.04.005. (SSCI, JCR Q1, ABS 1, ABDC A, FMS C, IF=7.6).  [Free Download](http://DavionWu2018.github.io/files/jhtm2023.pdf).
 
@@ -159,19 +157,19 @@ Working Papers
 
 Conference Proceedings
 ---
-- **Wu, D.#**, Li, H., & Li, R. X. (2024, 11-13 June). Corporate social performance and operational efficiency of tourism enterprises: A necessary condition analysis. *Proceedings of the 54th Annual Travel and Tourism Research Association International Conference (TTRA 2024)*, Burlington, Vermont, USA.
+- **Wu, D.#**, Li, H., & Li, R. X. (2024, 11-13 June). Corporate social performance and operational efficiency of tourism enterprises: A necessary condition analysis. *Proceedings of the 54th Annual Travel and Tourism Research Association International Conference (TTRA 2024)*, Burlington, Vermont, USA (Onsite Conference). [Free Download](https://doi.org/10.7275/54928).
 
 - **Wu, D.#**, & Li, H. (2024, 21-24 May). Promote or inhibit? The bilateral effects of ESG practices on tourism firm profitability. *In the 9th Conference of the International Association for Tourism Economics (IATE 2024)*, University of Central Florida, Orlando, Florida, USA.
 
 - **Wu, D.#**, & Li, H. (2022, 19-20 October). A comprehensive analytical framework for energy and tourism economy growth: Evidence from cities in the Yangtze River Delta. *Proceedings of the 4rd International Tourism and Retail Service Management Conference (TRMC 2022)*, University of South Carolina, Columbia, SC, USA.  [Free Download](https://bit.ly/TRMC2022-Proceedings), [Certification](http://DavionWu2018.github.io/files/con_trmc2022.pdf).
 
-- **Wu, D.**, Li, H.#, Li, Y., & Wang, Y. (2022, 14-16 June). Text mining tweets on post COVID-19 sustainable tourism through social media network and sentiment analysis. *Proceedings of the 52nd Annual Travel and Tourism Research Association International Conference (TTRA 2022)*, Virtual Conference, Victoria, Canada.  [Free Download](https://scholarworks.umass.edu/ttra/2022/researchabstract/57/).
+- **Wu, D.**, Li, H.#, Li, Y., & Wang, Y. (2022, 14-16 June). Text mining tweets on post COVID-19 sustainable tourism through social media network and sentiment analysis. *Proceedings of the 52nd Annual Travel and Tourism Research Association International Conference (TTRA 2022)*, Virtual Conference, Victoria, Canada. [Free Download](https://scholarworks.umass.edu/ttra/2022/researchabstract/57/).
 
 - **Wu, D.**, & Li, H.# (2021, 12-13 October). Benchmark analysis of tourism sustainable development using meta-frontier data envelopment analysis. *Proceedings of the 3rd International Tourism and Retail Service Management Conference (TRMC 2021)*, Sunway University, Kuala Lumpur, Malaysia.  [Free Download](https://bit.ly/TRMC2021-Proceedings), [Certification](http://DavionWu2018.github.io/files/con_trmc2021.pdf).
 
 Academic Presentations
 ---
-- Huo, T., **Wu, D.**, & Zhang, W. (2024, 18 April). Hotel booking strategy analytics, *In 2024 Tourism, Hospitality, and Event (T.H.E.) Analytics Case Competition*, Temple University, Philadelphia, PA, USA. [Free Download](https://bit.ly/THE2024-Presentations).
+- Huo, T., **Wu, D.**, & Zhang, W. (2024, 18 April). Hotel booking strategy analytics, *In 2024 Tourism, Hospitality, and Event (T.H.E.) Analytics Case Competition*, Temple University, Philadelphia, PA, USA. [Free Download](https://bit.ly/THE2024-Presentation).
 
 - **Wu, D.#**, Li, H., Huang, Q., Li, C., & Liang, S. (2022, 21 October). Measurement and determinants of smart tourism destinations’ sustainable performance based on the DEA-Tobit model. *In 2022 Inaugural Frontiers in Hospitality and Tourism Annual Research Symposium*, University of Macau, Macau, China.  [Free Download](https://bit.ly/HTfrontiers2022-Presentations), [Certification](http://DavionWu2018.github.io/files/con_htf2022.pdf).
 
@@ -204,7 +202,7 @@ Short-term Training Programs
   * Host by: Jiangsu Provincial Management Graduate Education Steering Committee
 
 
-# 🎖 Honors
+# 🎖 Awards & Honors
 
 * **Best Graduate Presentation**  [Certification](http://DavionWu2018.github.io/files/certification12.pdf).
   * Tourism, Hospitality, and Event (T.H.E.) Analytics Case Competition, April 2024. 
@@ -259,8 +257,8 @@ Short-term Training Programs
 
 Academic Services
 ---
-* *Journal Reviewer (29 journals, 165+ reviews)* 
-  * Since 2024: Annals of Tourism Research ([SSCI](http://DavionWu2018.github.io/files/rev_atr.pdf)), Journal of Business Ethics (SSCI), Technological Forecasting & Social Change ([SSCI](http://DavionWu2018.github.io/files/rev_tfs.pdf)), Transportation Research Part E: Logistics and Transportation Review ([SCIE&SSCI](http://DavionWu2018.github.io/files/rev_tre.pdf)), Annals of Operations Research (SCIE), Tourism Management Perspectives ([SSCI](http://DavionWu2018.github.io/files/rev_tmp.pdf)), Journal of Destination Marketing & Management ([SSCI](http://DavionWu2018.github.io/files/rev_jdmm.pdf)), Applied Economics Letters (SSCI), Computers & Industrial Engineering ([SCIE](http://DavionWu2018.github.io/files/rev_caie.pdf)), Knowledge-Based Systems ([SCIE](http://DavionWu2018.github.io/files/rev_knosys.pdf)), Cogent Social Sciences (ESCI), Journal of Infrastructure Policy and Development ([ESCI](http://DavionWu2018.github.io/files/rev_jipd.pdf)), International Journal of Tourism Policy (Scopus)
+* *Journal Reviewer (38 journals, 200+ reviews)* 
+  * Since 2024: Annals of Tourism Research ([SSCI](http://DavionWu2018.github.io/files/rev_atr.pdf)), Journal of Business Ethics (SSCI), International Journal of Production Economics ([SCIE](http://DavionWu2018.github.io/files/rev_ijpe.pdf)), Information & Management ([SSCI](http://DavionWu2018.github.io/files/rev_infman.pdf)), Technological Forecasting & Social Change ([SSCI](http://DavionWu2018.github.io/files/rev_tfs.pdf)), Transportation Research Part E: Logistics and Transportation Review ([SCIE&SSCI](http://DavionWu2018.github.io/files/rev_tre.pdf)), Annals of Operations Research (SCIE), Tourism Management Perspectives ([SSCI](http://DavionWu2018.github.io/files/rev_tmp.pdf)), Journal of Destination Marketing & Management ([SSCI](http://DavionWu2018.github.io/files/rev_jdmm.pdf)), Economic Analysis and Policy ([SSCI](http://DavionWu2018.github.io/files/rev_eap.pdf)), Applied Economics Letters (SSCI), International Review of Economics and Finance ([SSCI](http://DavionWu2018.github.io/files/rev_iref.pdf)), Finance Research Letters ([SSCI](http://DavionWu2018.github.io/files/rev_frl.pdf)), Computers & Industrial Engineering ([SCIE](http://DavionWu2018.github.io/files/rev_caie.pdf)), Applied Soft Computing ([SCIE](http://DavionWu2018.github.io/files/rev_asoc.pdf)), Knowledge-Based Systems ([SCIE](http://DavionWu2018.github.io/files/rev_knosys.pdf)), Engineering Applications of Artificial Intelligence ([SCIE](http://DavionWu2018.github.io/files/rev_eaai.pdf)), Cogent Social Sciences (ESCI), Journal of Infrastructure Policy and Development ([ESCI](http://DavionWu2018.github.io/files/rev_jipd.pdf)), International Journal of Intelligent Computing and Cybernetics (ESCI), International Journal of Tourism Policy (Scopus)
   * Since 2023: Environmental Science & Policy ([SCIE](http://DavionWu2018.github.io/files/rev_envsci.pdf)), International Journal of Hospitality Management ([SSCI](http://DavionWu2018.github.io/files/rev_ijhm.pdf)), Omega ([SCIE&SSCI](http://DavionWu2018.github.io/files/rev_omega.pdf)), Applied Economics (SSCI), Computational Economics (SCIE&SSCI), Journal of Quality Assurance in Hospitality & Tourism (ESCI), Plos One (SCIE), Heliyon ([SCIE](http://DavionWu2018.github.io/files/rev_heliyon.pdf)), Complexity (SCIE)
   * Since 2022: Socio-Economic Planning Sciences ([SCIE&SSCI](http://DavionWu2018.github.io/files/rev_seps.pdf)), Expert Systems with Application ([SCIE](http://DavionWu2018.github.io/files/rev_eswa.pdf)), Journal of Cleaner Production ([SCIE](http://DavionWu2018.github.io/files/rev_jclp.pdf)), Environment Development and Sustainability (SCIE)
   * Since 2021: Environmental Science and Pollution Research (SCIE), Kybernetes (SCIE)
@@ -280,11 +278,19 @@ Community & Affiliates
 * Travel and Tourism Research Association ([TTRA](https://ttra.com/)), Student Member (April 2022 - April 2025)
 * International Federation for IT and Travel & Tourism ([IFITT](https://ifitt.net/)), Student Member (January 2021 - January 2022)
 
-Research Projects
+Hosted Research Projects
 ---
 - **Wu, D.**, & Wang, Y. A data-driven network DEA method and its application in environmental performance evaluation, *Postgraduate Research & Practice Innovation Program of Jiangsu Province* ([KYCX20_1967](http://jyt.jiangsu.gov.cn/art/2020/6/29/art_58320_9266367.html)), 05/2020 – 05/2021, 8 thousand CNY.  [Certification](http://DavionWu2018.github.io/files/pro_kycx.pdf).
 
 - **Wu, D.**, & Wang, Y. Express business demand forecasting using GM-SARIMA model, *Grey System Theme Innovation Zone Project* ([GS2019005](http://igss.nuaa.edu.cn/main.htm)), 12/2019 - 06/2021.  [Certification](http://DavionWu2018.github.io/files/pro_gs.pdf).
+
+Industry-Academic Cooperation
+---
+* Driving Innovation in Tourism Research: TTRA’s 2025 Think Tank Initiatives, *Forecasting Tourism Demand Using Google Search Data*, Collaboration with Herrmann Global, Brand USA, and Temple University.
+  * This project aims to develop a predictive model using Google search data combined with artificial intelligence (AI) to forecast tourism demand and finally leverage the power of Google search data to provide real-time insights into travel behaviors and trends.
+
+* The Airport Cooperative Research Program (ACRP), *Beyond ADA: Airport Initiatives to Improve Accessibility through Programs, Facility Enhancements & Amenities*, PHL Family Amenity Survey.
+  * This project is a contract research program to develop near-term, practical solutions to problems facing airport-operating agencies, and sponsored by the Federal Aviation Administration and managed by the National Academies of Sciences, Engineering, and Medicine, through the Transportation Research Board.
 
 Comprehensive Skills
 ---
@@ -294,4 +300,4 @@ Comprehensive Skills
   * MS Office, Stata, R Studio, Python, MATLAB, Origin Lab
 
 
-***<script> document.write("Last modifid at: "+document.lastModified+"" ) </script>***
+***<script> document.write("Last modified at: "+document.lastModified+"" ) </script>***

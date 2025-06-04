@@ -21,7 +21,7 @@ redirect_from:
 
 He is also a visiting scholar at the School of Sport, Tourism, and Hospitality Management, **Temple University**, USA and a short-term visiting student at the Department of Industrial and Systems Engineering, **Lamar University**. 
 
-He has published **18+ papers** at the top international Management Science and Tourism Management journals such as Omega, CAIE, IJHM, JOST, ESP, CIT.
+He has published **20+ papers** at the top international Management Science and Tourism Management journals such as Omega, CAIE, IJHM, JOST, ESP, CIT.
 
 Research Interests
 ---
@@ -100,49 +100,51 @@ Research Interests
 
 Article In-progress
 ---
-- **Wu, D.**, & Li, H.# (2025). Information asymmetry in tourism market: The bilateral effects of ESG practices on firm profitability. *Under Review*.
-
 - **Wu, D.**, & Li, H.# (2025). ESG practices, risk-taking behavior, and firm value: Evidence from the tourism and hospitality sector. *Under Review*.
 
 - **Wu, D.**, & Li, H.# (2025). Corporate social performance and operational efficiency: A necessary condition analysis. *Under Review*.
 
 Journal Publications
 ---
-- Ren, Y., Wang, Y.#, **Wu, D.**, Xia, L., & Yan, Q. (2024). Regional carbon emission efficiency evaluation combining grey forecasting and game cross-efficiency analysis: The case of Yangtze River Delta. ***Energy & Environment***, Accept. (SSCI, JCR Q2, ABDC C, IF=4).
+- **Wu, D.**, & Li, H.# (2025). Information asymmetry in tourism market: The bilateral effects of ESG practices on firm profitability. ***Journal of Travel Research***, https://doi.org/10.1177/00472875251332950. (SSCI, JCR Q1, ABS 4, ABDC A*, FMS A, TOP, IF=8). [Free Download](http://DavionWu2018.github.io/files/jtr2025.pdf).
+
+- Ren, Y., Wang, Y.#, **Wu, D.**, Xia, L., & Yan, Q. (2025). Regional carbon emission efficiency evaluation combining grey forecasting and game cross-efficiency analysis: The case of Yangtze River Delta. ***Energy & Environment***, https://doi.org/10.1177/0958305X241310201. (SSCI, JCR Q2, ABDC C, IF=4). [Free Download](http://DavionWu2018.github.io/files/eae2025.pdf).
+
+- Ren, Y., Huang, Y., Wang, Y.#,  Xia, L., & **Wu, D.**. (2025). Forecasting carbon price in Hubei Province using a mixed neural model based on mutual information and Multi-head Self-Attention. ***Journal of Cleaner Production***, 494, 144960. https://doi.org/10.1016/j.jclepro.2025.144960. (SCIE&SSCI, EI, JCR Q1, ABS 1, ABDC A, FMS C, CAST T2, TOP, IF=9.7). [Free Download](http://DavionWu2018.github.io/files/jclp2025.pdf).
 
 - **Wu, D.**, Liu, W., Ren, Y., & Li, H.# (2024). Exploring energy and tourism economy growth nexus with DEA-based index systems: The case of sustainable development of tourism destinations. ***Environmental Science & Policy***, 160, 103858. https://doi.org/10.1016/j.envsci.2024.103858. (SCIE, JCR Q1, ABS 3, FMS B, CAST T2, TOP, IF=4.9). [Free Download](http://DavionWu2018.github.io/files/envsci2024.pdf).
 
-- Ren, Y., Wang, Y.#, Xia, L., & **Wu, D.** (2024). An innovative information accumulation multivariable grey model and its application in China’s renewable energy generation forecasting. ***Expert Systems with Applications***, 252, 124130. https://doi.org/10.1016/j.eswa.2024.124130. (SCIE, JCR Q1, ABS 1, ABDC C, FMS C, TOP, CCF C, IF=7.5). [Free Download](http://DavionWu2018.github.io/files/eswa2024.pdf).
+- Ren, Y., Wang, Y.#, Xia, L., & **Wu, D.** (2024). An innovative information accumulation multivariable grey model and its application in China’s renewable energy generation forecasting. ***Expert Systems with Applications***, 252, 124130. https://doi.org/10.1016/j.eswa.2024.124130. (SCIE, EI, JCR Q1, ABS 1, ABDC C, FMS C, TOP, CCF C, IF=7.5). [Free Download](http://DavionWu2018.github.io/files/eswa2024.pdf).
 
 - **Wu, D.**, Li, H., Huang, Q.#, Li, C., & Liang, S. (2024). Measurement and determinants of smart destinations’ sustainable performance: A two-stage analysis using DEA-Tobit model. ***Current Issues in Tourism***, 27(4), 529-545. https://doi.org/10.1080/13683500.2023.2228977. (SSCI, JCR Q1, ABS 2, ABDC A, FMS B, IF=5.7).  [Free Download](http://DavionWu2018.github.io/files/cit2024-1.pdf).
 
-- Li, H., & **Wu, D.#** (2024). Online investor attention and firm restructuring performance: Insights from an event-based DEA-Tobit model. ***Omega: The International Journal of Management Science***, 122, 102967. https://doi.org/10.1016/j.omega.2023.102967. (SCIE&SSCI, JCR Q1, ABS 3, ABDC A, FMS B, TOP, IF=6.7).  [Free Download](http://DavionWu2018.github.io/files/omega2023.pdf).
+- Li, H., & **Wu, D.#** (2024). Online investor attention and firm restructuring performance: Insights from an event-based DEA-Tobit model. ***Omega: The International Journal of Management Science***, 122, 102967. https://doi.org/10.1016/j.omega.2023.102967. (SCIE&SSCI, EI, JCR Q1, ABS 3, ABDC A, FMS B, TOP, IF=6.7).  [Free Download](http://DavionWu2018.github.io/files/omega2023.pdf).
 
 - **Wu, D.**, Li, H.#, & Liu, Y. (2024). Doing well by doing right: Heterogeneous effects of tourism firms’ social responsibility on service productivity and profitability. ***Current Issues in Tourism***, 27(24), 4693-4713. https://doi.org/10.1080/13683500.2023.2283558. (SSCI, JCR Q1, ABS 2, ABDC A, FMS B, IF=5.7). [Free Download](http://DavionWu2018.github.io/files/cit2024-2.pdf).
 
 - **Wu, D.**, Li, H.#, & Yang, J. (2023). How does social responsibility investment strategy contribute to hospitality firms’ recovery from public health emergencies? The case of COVID-19 pandemic. ***International Journal of Hospitality Management***, 113, 103530. https://doi.org/10.1016/j.ijhm.2023.103530. (SSCI, JCR Q1, ABS 3, ABDC A*, FMS B, TOP, IF=9.9).  [Free Download](http://DavionWu2018.github.io/files/ijhm2023.pdf).
 
-- Wang, Y., Ren, Y., **Wu, D.#**, & Qian, W. (2023). Eco-efficiency evaluation and productivity change in the Yangtze River Economic Belt: A meta-frontier Malmquist-Luenberger index perspective. ***Energy Efficiency***, 16(4), 23. https://doi.org/10.1007/s12053-023-10105-9. (SCIE&SSCI, JCR Q2, IF=3.2).  [Free Download](http://DavionWu2018.github.io/files/enef2023.pdf).
+- Wang, Y., Ren, Y., **Wu, D.#**, & Qian, W. (2023). Eco-efficiency evaluation and productivity change in the Yangtze River Economic Belt: A meta-frontier Malmquist-Luenberger index perspective. ***Energy Efficiency***, 16(4), 23. https://doi.org/10.1007/s12053-023-10105-9. (SCIE&SSCI, EI, JCR Q2, IF=3.2).  [Free Download](http://DavionWu2018.github.io/files/enef2023.pdf).
 
-- Du, X.#, **Wu, D.**, & Yan, Y. (2023). Prediction of electricity consumption based on GM(1,Nr) model in Jiangsu Province, China. ***Energy***, 262, 125439. https://doi.org/10.1016/j.energy.2022.125439. (SCIE, JCR Q1, CAST T1, TOP, IF=9.0).  [Free Download](http://DavionWu2018.github.io/files/energy2023.pdf).
+- Du, X.#, **Wu, D.**, & Yan, Y. (2023). Prediction of electricity consumption based on GM(1,Nr) model in Jiangsu Province, China. ***Energy***, 262, 125439. https://doi.org/10.1016/j.energy.2022.125439. (SCIE, EI, JCR Q1, CAST T1, TOP, IF=9.0).  [Free Download](http://DavionWu2018.github.io/files/energy2023.pdf).
 
 - **Wu, D.**, Li, H.#, & Wang, Y. (2023). Measuring sustainability and competitiveness of tourism destinations with data envelopment analysis. ***Journal of Sustainable Tourism***, 31(6), 1315-1335. https://doi.org/10.1080/09669582.2022.2042699. (SSCI, JCR Q1, ABS 3, ABDC A*, FMS B, IF=6.9).  [Free Download](http://DavionWu2018.github.io/files/jost2023.pdf).
 
 - Wang, Y.#, **Wu, D.**, & Li, H. (2022). Efficiency measurement and productivity progress of regional green technology innovation in China: A comprehensive analytical framework. ***Technology Analysis & Strategic Management***, 34(12), 1432-1448. https://doi.org/10.1080/09537325.2021.1963427. (SSCI, JCR Q2, ABS 2, ABDC B, FMS C, IF=2.9).  [Free Download](http://DavionWu2018.github.io/files/tasm2022.pdf).
 
-- Wang, H., Wang, Y.#, & **Wu, D.** (2022). A new seasonal cycle GM(1,1) model and its application in railway passenger volume forecasting. ***Grey Systems: Theory and Application***, 12(2), 293-317. https://doi.org/10.1108/GS-11-2020-0146. (SCIE, JCR Q1, FMS C, IF=3.2).  [Free Download](http://DavionWu2018.github.io/files/gsta2022.pdf).
+- Wang, H., Wang, Y.#, & **Wu, D.** (2022). A new seasonal cycle GM(1,1) model and its application in railway passenger volume forecasting. ***Grey Systems: Theory and Application***, 12(2), 293-317. https://doi.org/10.1108/GS-11-2020-0146. (SCIE, EI, JCR Q1, FMS C, IF=3.2).  [Free Download](http://DavionWu2018.github.io/files/gsta2022.pdf).
 
-- **Wu, D.**, Wang, Y.#, Liu, Y., & Wu, J. (2021). DEA cross-efficiency ranking method considering satisfaction and consensus degree. ***International Transactions in Operational Research***, 28(6), 3470-3492. https://doi.org/10.1111/itor.12990. (SCIE&SSCI, JCR Q2, ABS 1, ABDC B, FMS C, IF=3.1).  [Free Download](http://DavionWu2018.github.io/files/itor2021.pdf).
+- **Wu, D.**, Wang, Y.#, Liu, Y., & Wu, J. (2021). DEA cross-efficiency ranking method considering satisfaction and consensus degree. ***International Transactions in Operational Research***, 28(6), 3470-3492. https://doi.org/10.1111/itor.12990. (SCIE&SSCI, EI, JCR Q2, ABS 1, ABDC B, FMS C, IF=3.1).  [Free Download](http://DavionWu2018.github.io/files/itor2021.pdf).
 
-- Wang, Y., **Wu, D.#**, Qian, W., & Li, H. (2021). Cross-efficiency intervals integrated ranking approach based on the generalized Fermat-Torricelli point. ***Computers & Industrial Engineering***, 162, 107786. https://doi.org/10.1016/j.cie.2021.107786. (SCIE&SSCI, JCR Q1, ABS 2, ABDC A, FMS B, TOP, IF=6.7).  [Free Download](http://DavionWu2018.github.io/files/caie2021.pdf).
+- Wang, Y., **Wu, D.#**, Qian, W., & Li, H. (2021). Cross-efficiency intervals integrated ranking approach based on the generalized Fermat-Torricelli point. ***Computers & Industrial Engineering***, 162, 107786. https://doi.org/10.1016/j.cie.2021.107786. (SCIE&SSCI, EI, JCR Q1, ABS 2, ABDC A, FMS B, TOP, IF=6.7).  [Free Download](http://DavionWu2018.github.io/files/caie2021.pdf).
 
-- Liu, H., Yang, R., **Wu, D.**, & Zhou, Z.# (2021). Green productivity growth and competition analysis of road transportation at the provincial level employing Global Malmquist-Luenberger Index approach. ***Journal of Cleaner Production***, 279, 123677. https://doi.org/10.1016/j.jclepro.2020.123677. (SCIE&SSCI, JCR Q1, ABS 2, ABDC A, FMS C, TOP, IF=9.7).  [Free Download](http://DavionWu2018.github.io/files/jclp2021.pdf).
+- Liu, H., Yang, R., **Wu, D.**, & Zhou, Z.# (2021). Green productivity growth and competition analysis of road transportation at the provincial level employing Global Malmquist-Luenberger Index approach. ***Journal of Cleaner Production***, 279, 123677. https://doi.org/10.1016/j.jclepro.2020.123677. (SCIE&SSCI, EI, JCR Q1, ABS 2, ABDC A, FMS C, TOP, IF=9.7).  [Free Download](http://DavionWu2018.github.io/files/jclp2021.pdf).
 
-- **Wu, D.**, Wang, Y.#, & Qian, W. (2020). Efficiency evaluation and dynamic evolution of China’s regional green economy: A method based on the Super-PEBM model and DEA window analysis. ***Journal of Cleaner Production***, 264, 121630. https://doi.org/10.1016/j.jclepro.2020.121630. (SCIE&SSCI, JCR Q1, ABS 2, ABDC A, FMS C, TOP, IF=9.7).  [Free Download](http://DavionWu2018.github.io/files/jclp2020.pdf).
+- **Wu, D.**, Wang, Y.#, & Qian, W. (2020). Efficiency evaluation and dynamic evolution of China’s regional green economy: A method based on the Super-PEBM model and DEA window analysis. ***Journal of Cleaner Production***, 264, 121630. https://doi.org/10.1016/j.jclepro.2020.121630. (SCIE&SSCI, EI, JCR Q1, ABS 2, ABDC A, FMS C, TOP, IF=9.7).  [Free Download](http://DavionWu2018.github.io/files/jclp2020.pdf).
 
 Chapter & Review
 ---
-- **Wu, D.#** (2024). City walk in a gap day: Potential and opportunities for tourism and leisure. ***Tourism Review***, 79(9), 1576-1581. https://doi.org/10.1108/TR-09-2023-0614. (SSCI, JCR Q1, ABS 1, ABDC B, FMS D, IF=7.3).  [Free Download](http://DavionWu2018.github.io/files/tr2024.pdf).
+- **Wu, D.#** (2024). City walk in a gap day: Potential and opportunities for tourism and leisure. ***Tourism Review***, 79(9), 1576-1581. https://doi.org/10.1108/TR-09-2023-0614. (SSCI, JCR Q1, ABS 1, ABDC B, FMS D, IF=7.3). [Free Download](http://DavionWu2018.github.io/files/tr2024.pdf).
 
 - **Wu, D.#** (2023). A review on the “COVID-19, Tourist Destinations and Prospects for Recovery” book. ***Journal of Hospitality and Tourism Management***, 55, 198-199. https://doi.org/10.1016/j.jhtm.2023.04.005. (SSCI, JCR Q1, ABS 1, ABDC A, FMS C, IF=7.6).  [Free Download](http://DavionWu2018.github.io/files/jhtm2023.pdf).
 
@@ -204,6 +206,10 @@ Short-term Training Programs
 
 # 🎖 Awards & Honors
 
+* **Outstanding Doctoral Graduate Award**
+  * Nankai University, June 2025.
+  * This award is given to the doctoral student with excellent work of academic research in the process of completing doctoral degree in Nankai University.
+
 * **Best Graduate Presentation**  [Certification](http://DavionWu2018.github.io/files/certification12.pdf).
   * Tourism, Hospitality, and Event (T.H.E.) Analytics Case Competition, April 2024. 
   * This award is presented to the first-place winners at Temple University for their outstanding insights and contributions in analyzing real-world hotel data.
@@ -212,9 +218,9 @@ Short-term Training Programs
   * The Ministry of Education of the People’s Republic of China (MOE), December 2023. 
   * This award is granted to the PhD student who demonstrates outstanding scientific research and exceptional academic promise.
 
-* **Outstanding Postgraduate Award**  [Certification](http://DavionWu2018.github.io/files/certification10.pdf).
+* **Nankai Ten Talents Award**  [Certification](http://DavionWu2018.github.io/files/certification10.pdf).
   * Nankai University, October 2023. 
-  * This award is presented annually to only ten Ph.D. students who demonstrate excellent academic research work while completing their doctoral studies at Nankai University.
+  * This award is presented annually to only ten graduate students who demonstrate excellent academic research work while completing their doctoral studies at Nankai University.
 
 * **Second Prize of the 12th Wuxi Natural Science Excellent Academic Paper (2020-2021)**  [Certification](http://DavionWu2018.github.io/files/certification9.pdf).
   * The People’s Government of Wuxi City, January 2023.
@@ -224,9 +230,9 @@ Short-term Training Programs
   * Inaugural Frontiers in Hospitality and Tourism Annual Research Symposium, October 2022.
   * This award is given to the best paper with excellent academic contribution in 2022 Inaugural Frontiers in Hospitality and Tourism Annual Research Symposium.
 
-* **Outstanding Postgraduate Award**  [Certification](http://DavionWu2018.github.io/files/certification7.pdf).
+* **Outstanding Master Graduate Award**  [Certification](http://DavionWu2018.github.io/files/certification7.pdf).
   * Jiangnan University, June 2021. 
-  * This award is given to the postgraduate student with excellent work of academic research in the process of completing master’s degree in Jiangnan University.
+  * This award is given to the graduate student with excellent work of academic research in the process of completing master’s degree in Jiangnan University.
 
 * **Outstanding Student Leader of Jiangsu Province**  [Certification](http://DavionWu2018.github.io/files/certification6.pdf).
   * Jiangsu Provincial Department of Education, May 2021. 
@@ -257,7 +263,8 @@ Short-term Training Programs
 
 Academic Services
 ---
-* *Journal Reviewer (38 journals, 200+ reviews)* 
+* *Journal Reviewer (6 journals, 250+ reviews)* 
+  * Since 2025: Humanities and Social Sciences Communications (SSCI), Journal of Sustainable Tourism [(SSCI)] (http://DavionWu2018.github.io/files/rev_jost.pdf)), International Journal of Information Management [(SSCI)] (http://DavionWu2018.github.io/files/rev_ijim.pdf)), Journal of Environmental Management [(SCIE)] (http://DavionWu2018.github.io/files/rev_jem.pdf)), Economic Modelling [(SSCI)] (http://DavionWu2018.github.io/files/rev_em.pdf)), Agribusiness (SCIE&SSCI), Energy Sources, Part B: Economics, Planning, and Policy (SCIE), VMOST Journal of Social Sciences and Humanities
   * Since 2024: Annals of Tourism Research ([SSCI](http://DavionWu2018.github.io/files/rev_atr.pdf)), Journal of Business Ethics (SSCI), International Journal of Production Economics ([SCIE](http://DavionWu2018.github.io/files/rev_ijpe.pdf)), Information & Management ([SSCI](http://DavionWu2018.github.io/files/rev_infman.pdf)), Technological Forecasting & Social Change ([SSCI](http://DavionWu2018.github.io/files/rev_tfs.pdf)), Transportation Research Part E: Logistics and Transportation Review ([SCIE&SSCI](http://DavionWu2018.github.io/files/rev_tre.pdf)), Annals of Operations Research (SCIE), Tourism Management Perspectives ([SSCI](http://DavionWu2018.github.io/files/rev_tmp.pdf)), Journal of Destination Marketing & Management ([SSCI](http://DavionWu2018.github.io/files/rev_jdmm.pdf)), Economic Analysis and Policy ([SSCI](http://DavionWu2018.github.io/files/rev_eap.pdf)), Applied Economics Letters (SSCI), International Review of Economics and Finance ([SSCI](http://DavionWu2018.github.io/files/rev_iref.pdf)), Finance Research Letters ([SSCI](http://DavionWu2018.github.io/files/rev_frl.pdf)), Computers & Industrial Engineering ([SCIE](http://DavionWu2018.github.io/files/rev_caie.pdf)), Applied Soft Computing ([SCIE](http://DavionWu2018.github.io/files/rev_asoc.pdf)), Knowledge-Based Systems ([SCIE](http://DavionWu2018.github.io/files/rev_knosys.pdf)), Engineering Applications of Artificial Intelligence ([SCIE](http://DavionWu2018.github.io/files/rev_eaai.pdf)), Cogent Social Sciences (ESCI), Journal of Infrastructure Policy and Development ([ESCI](http://DavionWu2018.github.io/files/rev_jipd.pdf)), International Journal of Intelligent Computing and Cybernetics (ESCI), International Journal of Tourism Policy (Scopus)
   * Since 2023: Environmental Science & Policy ([SCIE](http://DavionWu2018.github.io/files/rev_envsci.pdf)), International Journal of Hospitality Management ([SSCI](http://DavionWu2018.github.io/files/rev_ijhm.pdf)), Omega ([SCIE&SSCI](http://DavionWu2018.github.io/files/rev_omega.pdf)), Applied Economics (SSCI), Computational Economics (SCIE&SSCI), Journal of Quality Assurance in Hospitality & Tourism (ESCI), Plos One (SCIE), Heliyon ([SCIE](http://DavionWu2018.github.io/files/rev_heliyon.pdf)), Complexity (SCIE)
   * Since 2022: Socio-Economic Planning Sciences ([SCIE&SSCI](http://DavionWu2018.github.io/files/rev_seps.pdf)), Expert Systems with Application ([SCIE](http://DavionWu2018.github.io/files/rev_eswa.pdf)), Journal of Cleaner Production ([SCIE](http://DavionWu2018.github.io/files/rev_jclp.pdf)), Environment Development and Sustainability (SCIE)
